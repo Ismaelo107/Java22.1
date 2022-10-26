@@ -1,6 +1,5 @@
 package Tema3.Class;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Ej21 {
