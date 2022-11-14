@@ -1,4 +1,4 @@
-package Tema2.Class;
+package Tema2.Class.Act;
 
 import java.util.Scanner;
 
@@ -26,6 +26,8 @@ public class Ej13 {
         } else {
             System.out.println("El número no es capicúa");
         }
+
+
 
 
     }

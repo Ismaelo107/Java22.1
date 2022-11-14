@@ -1,4 +1,4 @@
-package Tema2.Class;
+package Tema2.Class.Act;
 
 import java.util.Scanner;
 
